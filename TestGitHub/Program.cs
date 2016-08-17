@@ -11,6 +11,7 @@ namespace TestGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("LAla");
+            Console.WriteLine("lala2");
         }
     }
 }
